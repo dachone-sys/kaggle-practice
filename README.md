@@ -1,4 +1,4 @@
-# kaggle-practice# kaggle-practice
+kaggle-practice
 
 ## 概要
 Kaggleを用いたデータ分析・機械学習の練習用リポジトリです。
